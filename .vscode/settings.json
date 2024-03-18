@@ -1,5 +1,4 @@
 {
-    "files.associations": {
-        "stdio.h": "c"
-    }
+    "C_Cpp.default.compileCommands": "/home/wangcheng/VSCode/CommandOptions/src/builddir/compile_commands.json",
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild"
 }
